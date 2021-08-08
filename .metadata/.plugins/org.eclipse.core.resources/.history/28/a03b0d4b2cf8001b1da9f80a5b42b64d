@@ -6,7 +6,6 @@ public class DemoClass1 {
 		// TODO Auto-generated method stub
 		System.out.println("Code from GitUser1");
 		System.out.println("Code from GitUser2");
-		System.out.println("code update from user1");
 
 	}
 

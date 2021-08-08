@@ -1,2 +1,2 @@
-INDEX VERSION 1.131+D:\Coding\Git\Git Demo Project\GitUser2\DemoProject\.metadata\.plugins\org.eclipse.jdt.core
+INDEX VERSION 1.131+D:\Coding\Git\Git Demo Project\GitUser1\DemoProject\.metadata\.plugins\org.eclipse.jdt.core
 508142332.index
